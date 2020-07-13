@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app-galicia"
+    }
+  },
+  "defaultProject": "app-galicia",
+  "cli": {
+    "analytics": "b6dc2c17-afeb-4636-8b89-35306f671135"
+  }
 }
