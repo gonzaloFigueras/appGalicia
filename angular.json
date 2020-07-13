@@ -7,7 +7,7 @@
             "projectType": "application",
             "schematics": {},
             "root": "",
-            "sourceRoot": "dist",
+            "sourceRoot": "src",
             "prefix": "app",
             "architect": {
                 "build": {
